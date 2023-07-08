@@ -69,3 +69,5 @@ See [SHINY.md](SHINY.md).
 With Shiny for Python, we can create interactive apps using **Python**.
 
 ![Interactive Web App Written in Python](./images/InteractiveApp.PNG)
+
+Command python --version
