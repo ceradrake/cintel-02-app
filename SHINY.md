@@ -54,7 +54,7 @@ It's pretty easy to use. There's this one-time setup to authorize your machine t
 1. Open a terminal. (Terminal on Mac/Linux, PowerShell on Windows).
 1. Click in the terminal to paste the command and hit ENTER to run it.
 
-![Get the Command to Authorize shinyapps.io](images/GetCommandToAuthorizeShinyAppsdotIO.PNG)
+![Get the Command to Authorize shinyapps.io](images/GetC/CommandToAuthorizeShinyAppsdotIO.PNG)
 
 -----
 
